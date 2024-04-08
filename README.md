@@ -2,7 +2,7 @@
 
   <b>[rustifyc]</b>
   
-  (is a library for converting C header files into compatible Rust structures, enabling seamless binary compatibility between C and Rust code. Integrate C headers into your Rust projects effortlessly without the need for code rewriting.)
+  (a library for converting C header files into compatible Rust structures, enabling seamless binary compatibility between C and Rust code. Integrate C headers into your Rust projects effortlessly without the need for code rewriting.)
   </br></br>
 
 <div id="badges">
